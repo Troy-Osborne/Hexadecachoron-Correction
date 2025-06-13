@@ -1,5 +1,8 @@
 Hexadecachoron based error correction code.
 
+While this was created as an error correction code for transmission on lossy or corruptable mediums, as well long term backup storage,
+I may extend it in a attempt to make some post-quantum cryptography, however there are a few things I would need to brush up on before I plan that out.
+
 Encoder and decoder are in the python directory.
 I've left attached some of the prolog code I used to develop, analyse, and test the encoding.
 
